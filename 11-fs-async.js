@@ -36,5 +36,6 @@ readFile(
         })
     }
 )
+
 console.log('starting the next task');
 // async is useful for running multiple tasks in unison according to their file size
